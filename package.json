@@ -1,0 +1,9 @@
+{
+  "name": "gmb-reviews-to-sheets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.3.0",
+    "googleapis": "^128.0.0"
+  }
+}
